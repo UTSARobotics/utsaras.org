@@ -1,0 +1,25 @@
+# openai
+User-agent: GPTBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+
+# bard
+User-agent: Google-Extended
+Disallow: /
+
+# common crawl
+User-agent: CCBot
+Disallow: /
+
+# perplexity
+User-agent: PerplexityBot
+Disallow: /
+
+# Anthropic
+User-agent: anthropic-ai
+Disallow: /
+User-agent: Claude-Web
+Disallow: /
+User-agent: ClaudeBot
+Disallow: /
