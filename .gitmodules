@@ -1,0 +1,3 @@
+[submodule "workshops/OpenCV-in-Python-Mini-Lesson"]
+	path = workshops/OpenCV-in-Python-Mini-Lesson
+	url = git@github.com:UTSARobotics/OpenCV-in-Python-Mini-Lesson.git
